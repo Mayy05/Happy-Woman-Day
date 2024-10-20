@@ -65,9 +65,10 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   position: fixed;
   top: 80px;
+  bottom: 80px;
 
 }
 
